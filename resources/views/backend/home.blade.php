@@ -42,6 +42,21 @@ rder_color</i></div>
 </div>
 </div>
 <div class="list-group-separator"></div>
+<div class="list-group-item">
+<div class="row-action-primary">
+<i class="material-icons">format_list_bulleted</i>
+</div>
+<div class="row-content">
+<div class="action-secondary"><i class="material-icons">format_list_bulleted</i
+></div>
+<h4 class="list-group-item-heading">Manage Categories</h4>
+<a href="/admin/categories" class="btn btn-default btn-raised">All Categories</
+a>
+<a href="/admin/categories/create" class="btn btn-primary btn-raised">New Cate
+gory</a>
+</div>
+</div>
+<div class="list-group-separator"></div>
 </div>
 </div>
 </div>
